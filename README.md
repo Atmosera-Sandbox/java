@@ -4,7 +4,7 @@
 
 This contains a collection of demos for Copilot for Java programming language. 
 
-> GitHub Copilot is only available for VS Code, Visual Studio IDE, NeoVim, and IntelliJ and GitHub Copilot is not available for Jupyter Notebooks.
+> GitHub Copilot is only available for VS Code, Visual Studio IDE, NeoVim, and IntelliJ.
 
 ## Prerequisites
 
